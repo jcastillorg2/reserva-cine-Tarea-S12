@@ -29,7 +29,3 @@ python reserva_cine.py
 
 O tambien:
 py reserva_cine.py
-
-## Archivo principal
-reserva_cine.py: 
-contiene el código fuente del programa para realizar la reserva de un asiento y mostrar el estado de la sala.
